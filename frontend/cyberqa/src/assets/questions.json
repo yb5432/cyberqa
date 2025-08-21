@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "What is your favorite color?",
+    "isMultipleChoice": false,
+    "options": [],
+    "answer": ""
+  },
+  {
+    "id": 2,
+    "question": "What is your favorite programming language?",
+    "isMultipleChoice": true,
+    "options": ["JavaScript", "Python", "Java", "C++", "Go"],
+    "answer": ""
+  },
+  {
+    "id": 3,
+    "question": "Do you prefer frontend or backend development?",
+    "isMultipleChoice": true,
+    "options": ["Frontend", "Backend", "Both", "Neither"],
+    "answer": ""
+  },
+  {
+    "id": 4,
+    "question": "What is your favorite framework?",
+    "isMultipleChoice": false,
+    "options": [],
+    "answer": ""
+  },
+  {
+    "id": 5,
+    "question": "How many years of experience do you have in programming?",
+    "isMultipleChoice": false,
+    "options": [],
+    "answer": ""
+  },
+  {
+    "id": 6,
+    "question": "What is your preferred development environment?",
+    "isMultipleChoice": true,
+    "options": ["VS Code", "WebStorm", "Sublime Text", "Vim", "Emacs"],
+    "answer": ""
+  },
+  {
+    "id": 7,
+    "question": "What is your favorite database?",
+    "isMultipleChoice": false,
+    "options": [],
+    "answer": ""
+  },
+  {
+    "id": 8,
+    "question": "Do you prefer working in a team or individually?",
+    "isMultipleChoice": true,
+    "options": ["Team", "Individually", "Both", "Depends on the project"],
+    "answer": ""
+  },
+  {
+    "id": 9,
+    "question": "What is your favorite operating system for development?",
+    "isMultipleChoice": true,
+    "options": ["Windows", "macOS", "Linux", "Other"],
+    "answer": ""
+  },
+  {
+    "id": 10,
+    "question": "What is your preferred method of learning new technologies?",
+    "isMultipleChoice": true,
+    "options": ["Documentation", "Video tutorials", "Books", "Hands-on practice", "Online courses"],
+    "answer": ""
+  },
+  {
+    "id": 11,
+    "question": "What is your favorite version control system?",
+    "isMultipleChoice": true,
+    "options": ["Git", "SVN", "Mercurial", "Other"],
+    "answer": ""
+  },
+  {
+    "id": 12,
+    "question": "What is your preferred testing approach?",
+    "isMultipleChoice": true,
+    "options": ["Unit testing", "Integration testing", "End-to-end testing", "Manual testing", "Combination"],
+    "answer": ""
+  },
+  {
+    "id": 13,
+    "question": "What is your favorite cloud platform?",
+    "isMultipleChoice": false,
+    "options": [],
+    "answer": ""
+  },
+  {
+    "id": 14,
+    "question": "Do you prefer working remotely or in an office?",
+    "isMultipleChoice": true,
+    "options": ["Remotely", "In an office", "Hybrid", "Depends on the team"],
+    "answer": ""
+  },
+  {
+    "id": 15,
+    "question": "What is your biggest challenge in software development?",
+    "isMultipleChoice": false,
+    "options": [],
+    "answer": ""
+  }
+]

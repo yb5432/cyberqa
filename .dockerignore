@@ -1,0 +1,41 @@
+# Build artifacts
+*.exe
+*.out
+*.so
+*.dll
+*.dylib
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git files
+.git/
+
+# Log files
+*.log
+
+# Test files
+coverage/
+*.test
+
+# Node.js dependencies (will be installed during build)
+frontend/cyberqa/node_modules/
+
+# Distribution files (will be built during build)
+frontend/cyberqa/dist/
+
+# Roo files
+.roo/
+
+# Compiled Go files
+*.go.tmp
+
+# Temporary files
+tmp/
+temp/
